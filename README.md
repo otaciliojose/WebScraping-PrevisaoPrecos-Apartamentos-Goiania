@@ -6,7 +6,7 @@
 
 Prever o Valor de Apartamento: O objetivo principal deste projeto é criar um modelo de previsão de valores de apartamentos em Goiânia, GO, com base nos dados coletados do site vivareal.com.br, data da coleta de dados: 13/04/2023.
 
-## Subjetivos:
+## Subobjetivos:
 
 - Coleta de Dados: Utilizar a biblioteca BeautifulSoup para raspar informações relevantes sobre apartamentos em Goiânia, como preço, metragem, número de quartos, localização, etc.
 
